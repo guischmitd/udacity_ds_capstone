@@ -1,0 +1,12 @@
+Distance
+ipython
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+pyarrow
+tqdm
+openpyxl
