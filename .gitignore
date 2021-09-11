@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Data, models and other git-unfit files
-data/
-models/
+data/*
+models/*

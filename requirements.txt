@@ -4,6 +4,7 @@ ipykernel
 pandas
 numpy
 matplotlib
+plotly
 seaborn
 statsmodels
 scikit-learn
