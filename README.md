@@ -1,5 +1,5 @@
 # Udacity + Arvato Customer Segmentation Challenge
-This repo is one of the deliverables of the Capstone Project in the Data Scientist Nanodegree program by Udacity.
+This repo is one of the deliverables of the Capstone Project in the Data Scientist Nanodegree program by Udacity. You can access the [accompanying technical report](https://guischmitd.medium.com/using-data-to-understand-customers-and-target-marketing-campaigns-898051dd04a9) on medium.
 
 ## Project Context
 The Arvato Financial Solutions Customer Segmentation Competition is a challenge created in partnership with Udacity designed to test many of the skills required of a Data Science professional, from data exploration, analysis and transformation, all the way through modeling, optimizing and generating predictions. The data kindly provided by Arvato Bertelsmann contain a large number of features and samples of individuals divided in two groups: Customers (of a mailout company for which Arvato is consulting) and general population. Features range in scope from individual characteristics, such as age and gender, to household and community, such as unemployment rate and number of cars. All samples relate to people in Germany.
